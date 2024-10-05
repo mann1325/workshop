@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Project Title
 
@@ -15,3 +16,6 @@ A brief description of your project.
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/repository.git
+=======
+# workshop
+>>>>>>> 23f763c (Initial commit)
